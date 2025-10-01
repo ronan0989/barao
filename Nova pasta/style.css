@@ -1,0 +1,27 @@
+.inicio{
+background-color: rgb(0, 136, 255);
+text-align: center;
+
+}
+.inicio h1{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+.principal{
+background-color: rgb(255, 0, 0);
+margin-top: 20px;
+
+}
+.imagem{
+
+}
+
+.imagem img{
+width: 30%;
+
+}
+
+.imagem h2{
+font-size: 40px;
+color: chartreuse;
+}
